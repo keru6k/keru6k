@@ -1,4 +1,5 @@
-<h1 align="center"> Hi, I'm Ker.</h1>
+<h1 align="center"> Hi, I'm Ker.  </h1>
+
 <p align="center"> I code stuffs.</p>
 <h4> Currently improving my programming skills, mainly in Python. Mabuhay!</h4>
 <p>my GItHub Stats:</p>
