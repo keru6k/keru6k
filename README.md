@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Ker.  <img src="wave-hello.gif" width="50" height="50"> </h1>
 
-<p align="center"> I code stuffs. <img src="chika-happy.gif" width="40" height="40"></p>
+<p align="center"> I code stuffs. <img src="chika-dance.gif" width="50" height="50"></p>
 
 <h2>I'm a programmer currently living in the Philippines! I like to make things!</h2>
 <h4>my current projects right now:<h4>
