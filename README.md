@@ -2,6 +2,7 @@
 
 <p align="center"> I code stuffs. <img src="chika-dance.gif" width="50" height="50"></p>
 
+
 <h2>I'm a programmer currently living in the Philippines! I like to make things!</h2>
 <h4>my current projects right now:<h4>
   
@@ -25,4 +26,6 @@
 <p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=kerthegreat&show_icons=true&locale=en&layout=compact" </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kerthegreat&show_icons=true&theme=dark" </p>
 
-  <p>ほんとにありがとございます！</p>
+  <p>よろしくお願いします！</p>
+
+  ![fujiwara-chika](https://user-images.githubusercontent.com/73579653/154232131-97326511-c921-4da1-895c-2e09bb2d9645.gif)
