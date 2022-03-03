@@ -6,7 +6,7 @@
 <h2>I'm a programmer currently living in the Philippines! I like to make things!</h2>
 <h4>my current projects right now:<h4>
   
-- [x] Make a Visual Novel Game (IN PROGRESS)
+- [x] Make an AI Chatbot (IN PROGRESS)
 - [x] Make a Port Scanner
   
   <p></p>
