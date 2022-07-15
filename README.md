@@ -3,25 +3,26 @@
 <p align="center"> I code stuffs. <img src="chika-dance.gif" width="50" height="50"></p>
 
 
-<h2>I'm a programmer currently living in the Philippines! I like to make things!</h2>
+<h2>I'm a programmer currently living in the Philippines! I like to make things<3!</h2>
 <h4>my current projects right now:<h4>
   
 - [x] Make an AI Chatbot (FINISHEDDDDD)
 - [x] Make a Port Scanner
+- [x] Read a book
+<h5> ... </h5>
   
   <p></p>
   
 ### 🚀 Languages i've used
   
-[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 ### About Me
   
-- I'm 16 years old.
 - I like turtles
 
   
-<h4> Currently improving my programming skills, mainly in Python. Mabuhay!</h4>
+
 <p>my GItHub Stats:</p>
 <p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=keru6k&show_icons=true&locale=en&layout=compact" </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=keru6k&show_icons=true&theme=dark" </p>
