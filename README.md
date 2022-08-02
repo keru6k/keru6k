@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Ker.  <img src="wave-hello.gif" width="50" height="50"> </h1>
 
-<p align="center"> I code stuffs. <img src="chika-dance.gif" width="50" height="50"></p>
+<p align="center"> I code stuffs. </p>
 
 
 <h2>I'm a programmer currently living in the Philippines! I like to make things<3!</h2>
@@ -8,8 +8,8 @@
   
 - [x] Make an AI Chatbot (FINISHEDDDDD)
 - [x] Make a Port Scanner
-- [x] Read a book
-<h5> ... </h5>
+- [x] Make a GUI in C# 
+<h5> </h5>
   
   <p></p>
   
@@ -24,9 +24,12 @@
   
 
 <p>my GItHub Stats:</p>
-<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=keru6k&show_icons=true&locale=en&layout=compact" </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=keru6k&show_icons=true&theme=dark" </p>
+<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=keru6k&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=keru6k&show_icons=true&theme=dark" />
 
-  <p>よろしくお願いします！</p>
+  
+
+<div></div>
 
   ![fujiwara-chika](https://user-images.githubusercontent.com/73579653/154232131-97326511-c921-4da1-895c-2e09bb2d9645.gif)
+  <p>よろしくお願いします！</p>
