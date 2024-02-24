@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Ker.  <img src="wave-hello.gif" width="50" height="50"> </h1>
 
-<p align="center"> I code stuffs. </p>
+<p align="center"> I just code stuffs and break them on my free time :D </p>
 
 
-<h2>I'm a programmer currently living in the Philippines! I like to make things<3!</h2>
+<h2>I'm a Penetration Tester / Security Researcher currently in the philippines!</h2>
 <h4>my current projects right now:<h4>
   
 - [x] Make an AI Chatbot (FINISHEDDDDD)
@@ -24,12 +24,4 @@
   
 
 <p>my GItHub Stats:</p>
-<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=keru6k&show_icons=true&locale=en&layout=compact" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=keru6k&show_icons=true&theme=dark" />
-
-  
-
-<div></div>
-
-  ![fujiwara-chika](https://user-images.githubusercontent.com/73579653/154232131-97326511-c921-4da1-895c-2e09bb2d9645.gif)
-  <p>よろしくお願いします！</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=keru6k&show_icons=true&theme=dark"/>
