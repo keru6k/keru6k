@@ -6,9 +6,7 @@
 <h2>I'm a Penetration Tester / Security Researcher currently in the philippines!</h2>
 <h4>my current projects right now:<h4>
   
-- [x] Make an AI Chatbot (FINISHEDDDDD)
-- [x] Make a Port Scanner
-- [x] Make a GUI in C# 
+- [ ] TS//SI//REL
 <h5> </h5>
   
   <p></p>
